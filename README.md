@@ -52,7 +52,7 @@ duplicate issues, no confidential partner material.
 | 2026-07-28 | [NVIDIA/nemoclaw-community#73](https://github.com/NVIDIA/nemoclaw-community/pull/73) | Gate GitHub source ETL behind explicit opt-in | **merged** |
 | 2026-07-28 | [NVIDIA/nemoclaw-community#74](https://github.com/NVIDIA/nemoclaw-community/pull/74) | Validate Slack Socket Mode scope before setup | **merged** |
 | 2026-07-28 | [NVIDIA/nemoclaw-community#72](https://github.com/NVIDIA/nemoclaw-community/pull/72) | Fail-fast inference preflight | closed (not merged) |
-| 2026-08-20 | [NVlabs/GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) | Fix `gear_sonic[inference]` package name + Python 3.12 | opening |
+| 2026-08-20 | [NVlabs/GR00T-WholeBodyControl#258](https://github.com/NVlabs/GR00T-WholeBodyControl/pull/258) | Fix `gear_sonic[inference]` package name + Python 3.12 | **open** |
 
 Details: [docs/UPSTREAM.md](docs/UPSTREAM.md).
 
