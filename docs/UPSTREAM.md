@@ -8,7 +8,7 @@ Grok-bot loop that proved the quality bar, then went idle.
 - [#74 merged](https://github.com/NVIDIA/nemoclaw-community/pull/74) by NVIDIA (`apurvvkumaria`) — Slack Socket Mode preflight
 - [#72 closed](https://github.com/NVIDIA/nemoclaw-community/pull/72) — inference preflight; reused as product proof in TARX CLI
 
-## Isaac GR00T / GR00T-WBC (opening 2026-08-20)
+## Isaac GR00T / GR00T-WBC (2026-08-20)
 
 Observed on current `NVIDIA/Isaac-GR00T` `pyproject.toml`:
 
@@ -17,8 +17,8 @@ Observed on current `NVIDIA/Isaac-GR00T` `pyproject.toml`:
 
 Observed on current `NVlabs/GR00T-WholeBodyControl`:
 
-- `gear_sonic[inference]` depends on `Isaac-GR00T @ git+https://github.com/NVIDIA/Isaac-GR00T.git`
-- `install_scripts/install_inference.sh` creates a Python 3.10 venv
+- `gear_sonic[inference]` depended on `Isaac-GR00T @ git+https://github.com/NVIDIA/Isaac-GR00T.git`
+- `install_scripts/install_inference.sh` created a Python 3.10 venv
 
 That pair matches [Isaac-GR00T#748](https://github.com/NVIDIA/Isaac-GR00T/issues/748):
 
@@ -26,8 +26,11 @@ That pair matches [Isaac-GR00T#748](https://github.com/NVIDIA/Isaac-GR00T/issues
 Package metadata name `gr00t` does not match given name `Isaac-GR00T`
 ```
 
-Fix belongs in GR00T-WholeBodyControl, not Isaac-GR00T. Patch on
-`tarx-ai/GR00T-WholeBodyControl` branch `fix/isaac-gr00t-dep-name-python312`.
+Fix is in GR00T-WholeBodyControl, not Isaac-GR00T.
+
+- Branch: `tarx-ai/GR00T-WholeBodyControl` `fix/isaac-gr00t-dep-name-python312`
+- PR: https://github.com/NVlabs/GR00T-WholeBodyControl/pull/258
+- Issue comment: https://github.com/NVIDIA/Isaac-GR00T/issues/748#issuecomment-5361863159
 
 ## Do not
 
