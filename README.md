@@ -39,7 +39,7 @@ Onboard compute       NVIDIA Jetson Thor (reference design)
 Body                  Unitree H2 Plus + Sharpa Wave hands
 ```
 
-See [docs/STACK.md](docs/STACK.md) for the working map and
+See [docs/CORE_DEPS.md](docs/CORE_DEPS.md), [docs/NVIDIA_REPOS.md](docs/NVIDIA_REPOS.md), [docs/STACK.md](docs/STACK.md) for the working map and
 [docs/STATUS.md](docs/STATUS.md) for what is actually done vs. planned.
 
 ## Upstream contributions
@@ -53,6 +53,8 @@ duplicate issues, no confidential partner material.
 | 2026-07-28 | [NVIDIA/nemoclaw-community#74](https://github.com/NVIDIA/nemoclaw-community/pull/74) | Validate Slack Socket Mode scope before setup | **merged** |
 | 2026-07-28 | [NVIDIA/nemoclaw-community#72](https://github.com/NVIDIA/nemoclaw-community/pull/72) | Fail-fast inference preflight | closed (not merged) |
 | 2026-08-20 | [NVlabs/GR00T-WholeBodyControl#258](https://github.com/NVlabs/GR00T-WholeBodyControl/pull/258) | Fix `gear_sonic[inference]` package name + Python 3.12 | **open** |
+| 2026-08-20 | [NVlabs/curobo#715](https://github.com/NVlabs/curobo/pull/715) | Keep Unitree G1 kinematics intact in IK benchmark | **open** |
+| 2026-08-20 | [NVIDIA/nemoclaw-community#127](https://github.com/NVIDIA/nemoclaw-community/pull/127) | macOS read-only preflight doctor | **open** |
 
 Details: [docs/UPSTREAM.md](docs/UPSTREAM.md).
 
