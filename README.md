@@ -54,7 +54,7 @@ duplicate issues, no confidential partner material.
 | 2026-07-28 | [NVIDIA/nemoclaw-community#72](https://github.com/NVIDIA/nemoclaw-community/pull/72) | Fail-fast inference preflight | closed (not merged) |
 | 2026-08-20 | [NVlabs/GR00T-WholeBodyControl#258](https://github.com/NVlabs/GR00T-WholeBodyControl/pull/258) | Fix `gear_sonic[inference]` package name + Python 3.12 | **open** |
 | 2026-08-20 | [NVlabs/curobo#715](https://github.com/NVlabs/curobo/pull/715) | Keep Unitree G1 kinematics intact in IK benchmark | **open** |
-| 2026-08-20 | [NVIDIA/nemoclaw-community#127](https://github.com/NVIDIA/nemoclaw-community/pull/127) | macOS read-only preflight doctor | **open** |
+| 2026-08-20 | [NVIDIA/nemoclaw-community#127](https://github.com/NVIDIA/nemoclaw-community/pull/127) | macOS read-only preflight doctor | **closed (scope: NemoClaw product repo, not community)** |
 
 Details: [docs/UPSTREAM.md](docs/UPSTREAM.md).
 
