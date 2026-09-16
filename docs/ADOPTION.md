@@ -21,7 +21,7 @@ Credible only as merged or open PRs, not forks.
 | NVIDIA/Isaac-GR00T | tarx-ai/Isaac-GR00T | #748 comment; wait on #745 |
 | NVlabs/GR00T-WholeBodyControl | tarx-ai/GR00T-WholeBodyControl | [#258](https://github.com/NVlabs/GR00T-WholeBodyControl/pull/258) |
 | NVlabs/curobo | tarx-ai/curobo | [#715](https://github.com/NVlabs/curobo/pull/715) |
-| NVIDIA/nemoclaw-community | tarx-ai/nemoclaw-community | [#127](https://github.com/NVIDIA/nemoclaw-community/pull/127); #73/#74 merged |
+| NVIDIA/nemoclaw-community | tarx-ai/nemoclaw-community | `#73/#74 merged; #127 closed (wrong repo; do not reopen)` |
 | isaac-sim/IsaacLab | tarx-ai/IsaacLab | fork only so far |
 | NVIDIA-ISAAC-ROS/isaac_ros_common | tarx-ai/isaac_ros_common | Thor / JetPack common |
 | NVIDIA-ISAAC-ROS/isaac_ros_physical_ai | tarx-ai/isaac_ros_physical_ai | humanoid WBC bring-up |

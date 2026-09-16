@@ -74,7 +74,9 @@ Details: [docs/UPSTREAM.md](docs/UPSTREAM.md).
 ## Related public TARX surface
 
 - [tarx.com](https://tarx.com)
+- [tarx-ai/tarx-cli](https://github.com/tarx-ai/tarx-cli)
 - [tarx-ai/tarx-desktop](https://github.com/tarx-ai/tarx-desktop)
+- [tarx-ai/tarx-examples](https://github.com/tarx-ai/tarx-examples)
 - [tarx-ai/governed-agent-contracts](https://github.com/tarx-ai/governed-agent-contracts)
 
 Private hardware design notes stay in `tarx-ai/tarx-hardware`.
