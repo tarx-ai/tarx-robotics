@@ -30,6 +30,7 @@ Fix is in GR00T-WholeBodyControl, not Isaac-GR00T.
 
 - Branch: `tarx-ai/GR00T-WholeBodyControl` `fix/isaac-gr00t-dep-name-python312`
 - PR: https://github.com/NVlabs/GR00T-WholeBodyControl/pull/258
+- Still waiting on #258/#715 as of 2026-09-17
 - Issue comment: https://github.com/NVIDIA/Isaac-GR00T/issues/748#issuecomment-5361863159
 
 ## Do not
